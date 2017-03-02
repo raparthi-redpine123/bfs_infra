@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Web Application JSP Page</title>
+    <title>Web Application JSP Page </title> //rohithhh changd
   </head>
 
   <body bgcolor=white>

@@ -17,7 +17,7 @@
   </table>
 
   <br />
-  <p>This is the output of a JSP page that is part of the MobileBanking Application.</p>
+  <p>This is the output of a JSP page that is part of the MobileBanking_APPPPPP Application.</p>
 
   <%= new String("Hello!") %>
 
